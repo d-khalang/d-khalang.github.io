@@ -1,5 +1,5 @@
 
-This is a webpage that I've coded for a frontend assignment with the following Requirements.
+https://d-khalang.github.io/ is a webpage that I've coded for a frontend assignment with the following Requirements.
 I tried to make it for an imaginary cold brew company for which I used chatGPT, midjourney, and Bing to generate the content and images.
 
 Requirements
