@@ -13,6 +13,5 @@ Requirements
 - footer: logo, useful information links (terms and conditions, cookies, etc), copyright, newsletter registration form (no functionality)
 - call to action in the page, leading to the price table"""
 
-Icons came from icon8
 
 
